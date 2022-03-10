@@ -1,4 +1,4 @@
-# Warriors
+# Century Warriors
 link: https://alexaltrex.github.io/warriors/
 
 <div style="display:flex;">
